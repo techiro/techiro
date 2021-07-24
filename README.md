@@ -1,5 +1,16 @@
 ### Hi there 👋
+<a href="http://twitter.com/appgrape">
+    <img height="20" src="https://img.shields.io/twitter/follow/appgrape?label=Twitter&logo=twitter&style=flat" />
+</a>
+<a href="https://github.com/techiro">
+    <img height="20" src="https://img.shields.io/github/followers/techiro?label=follow&logo=github&style=flat" />
+</a>
 
+<a href="http://qiita.com/appgrape">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/appgrape/posts.svg" /> <img height="20" src="https://qiita-badge.apiapi.app/s/appgrape/contributions.svg" />
+</a>
+
+  
 ### 📈 GitHub Stats
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
