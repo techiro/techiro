@@ -7,6 +7,12 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/appgrape/posts.svg" /> <img height="20" src="https://qiita-badge.apiapi.app/s/appgrape/contributions.svg" />
 </a>
 
+<a href="https://official.kacchanblog.com/products">
+    <img height="20" src="https://img.shields.io/badge/blog-products-red" />
+    
+<a href="https://official.kacchanblog.com/">
+    <img height="20" src="https://img.shields.io/badge/blog-contents-orange" />
+
   
 ### 📈 GitHub Stats
 <p>
