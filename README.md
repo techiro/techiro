@@ -23,7 +23,7 @@
   </a>
 </p>
 
-### GitHub Profile Trophy🏆 
+### 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=techiro&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
 
 
