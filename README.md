@@ -4,7 +4,7 @@
 </a>
 
 <a href="http://qiita.com/appgrape">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/appgrape/posts.svg" /> <img height="20" src="https://qiita-badge.apiapi.app/s/appgrape/contributions.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/techiro/posts.svg" /> <img height="20" src="https://qiita-badge.apiapi.app/s/techiro/contributions.svg" />
 </a>
 
 <a href="https://official.kacchanblog.com/products">
