@@ -10,9 +10,11 @@
 
 <a href="https://official.kacchanblog.com/products">
     <img height="20" src="https://img.shields.io/badge/blog-products-red" />
-    
+</a>
+
 <a href="https://official.kacchanblog.com/">
     <img height="20" src="https://img.shields.io/badge/blog-contents-orange" />
+</a>
 
 
 <picture>
